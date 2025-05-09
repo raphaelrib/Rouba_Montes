@@ -921,3 +921,5 @@ void estatisticas(player jogador[], int i){
         }
     }
 }
+
+//Eu estive aqui \(*_*)/ \(*_*)/ \(*_*)/ \(*_*)/ \(*_*)/ \(*_*)/ \(*_*)/
