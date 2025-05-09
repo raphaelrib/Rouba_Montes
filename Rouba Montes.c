@@ -3,7 +3,7 @@
 #include <string.h>
 #include <time.h>
 
-
+// O código ficou bem otimizado. Muito legal!!!
 typedef struct carta{
     int numero;
     int naipe; //1-COPAS, 2-OUROS, 3-ESPADAS, 4-PAUS
