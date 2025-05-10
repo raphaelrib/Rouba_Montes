@@ -917,6 +917,8 @@ void estatisticas(player jogador[], int i){
             if (cartaaux->naipe == 3 || cartaaux->naipe == 4) {
                 printf("\n\033[0m-> %d - %s \033[0m", cartaaux->numero, texto);
             }
+
+            //Continue assim
             aux = aux->anterior;
         }
     }
